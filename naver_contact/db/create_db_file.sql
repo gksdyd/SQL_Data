@@ -1,0 +1,21 @@
+create database nct1 default character set utf8mb4 collate utf8mb4_unicode_ci;
+create database nct2 default character set utf8mb4 collate utf8mb4_unicode_ci;
+create database nct3 default character set utf8mb4 collate utf8mb4_unicode_ci;
+create database nct4 default character set utf8mb4 collate utf8mb4_unicode_ci;
+create database nct5 default character set utf8mb4 collate utf8mb4_unicode_ci;
+create database nct6 default character set utf8mb4 collate utf8mb4_unicode_ci;
+create database nct7 default character set utf8mb4 collate utf8mb4_unicode_ci;
+create database nct8 default character set utf8mb4 collate utf8mb4_unicode_ci;
+create database nct9 default character set utf8mb4 collate utf8mb4_unicode_ci;
+create database nct10 default character set utf8mb4 collate utf8mb4_unicode_ci;
+
+drop database nct1; 
+drop database nct2; 
+drop database nct3; 
+drop database nct4; 
+drop database nct5; 
+drop database nct6; 
+drop database nct7; 
+drop database nct8; 
+drop database nct9; 
+drop database nct10; 
